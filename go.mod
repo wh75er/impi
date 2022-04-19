@@ -1,4 +1,4 @@
-module github.com/pavius/impi
+module github.com/wh75er/impi
 
 go 1.17
 

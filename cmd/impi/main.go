@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/pavius/impi"
+	"github.com/wh75er/impi"
 )
 
 type consoleErrorReporter struct{}
